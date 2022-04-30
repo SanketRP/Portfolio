@@ -21,4 +21,4 @@
 <br/>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanketRP&repo=TinDog&theme=tokyonight&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanketRP&repo=OIBSIP-PORTFOLIO&theme=tokyonight&hide_border=true)
