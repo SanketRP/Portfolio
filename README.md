@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br/>
 
-- 🔭 Preview the Website [My Portfolio](https://sanketrp.github.io/OIBSIP-PORTFOLIO/)
+- 🔭 Preview the Website [My Portfolio](https://sanketrp.github.io/Portfolio/)
 
 - 📫 How to reach me **sanketrp123@gmail.com**
 
